@@ -1,0 +1,1 @@
+Pulse oximeter analog front-end designed and simulated in NI Multisim, followed by hardware assembly and functional verification. The project focuses on optical signal acquisition and analog signal conditioning for SpO₂ measurement.
